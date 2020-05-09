@@ -10,13 +10,13 @@
 
 ![Image website preview](https://i.imgur.com/aL5dCyQ.png)
 
-Deployment of the blog made with Gatsby following the Frontend Masters course.
+## Deployment of the blog made with Gatsby following the Frontend Masters course.
 
 [Link to blog](https://wizardly-raman-df26f2.netlify.app)
 ------
 
 
-Learned during this course:
+### Learned during this course:
 - React props/hooks
 - Image optimization w/Gatsby sharp plugin
 - Integrate MDX with React
