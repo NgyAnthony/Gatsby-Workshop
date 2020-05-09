@@ -10,3 +10,12 @@
 
 Deployment of the blog made with Gatsby following the Frontend Masters course.
 
+Learned during this course:
+- React props/hooks
+- Image optimization w/Gatsby sharp plugin
+- Integrate MDX with React
+- Internal GraphQL queries
+- GraphQL queries to Instagram API through Gatsby instagram plugin
+- Generation of JS Bundle size analyzer
+
+![Website](https://wizardly-raman-df26f2.netlify.app)
