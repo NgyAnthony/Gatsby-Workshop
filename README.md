@@ -8,7 +8,13 @@
   Frontend Masters: Introduction to Gatsby
 </h1>
 
+![Image website preview](https://i.imgur.com/aL5dCyQ.png)
+
 Deployment of the blog made with Gatsby following the Frontend Masters course.
+
+[Link to blog](https://wizardly-raman-df26f2.netlify.app)
+------
+
 
 Learned during this course:
 - React props/hooks
@@ -17,5 +23,5 @@ Learned during this course:
 - Internal GraphQL queries
 - GraphQL queries to Instagram API through Gatsby instagram plugin
 - Generation of JS Bundle size analyzer
+- Learn how to use Lobotomized owl in CSS
 
-![Website](https://wizardly-raman-df26f2.netlify.app)
